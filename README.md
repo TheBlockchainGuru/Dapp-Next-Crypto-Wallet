@@ -1,2 +1,2 @@
-# Fionix-Dex-Dapp-Next
-Fionix dex tool with next js
+# Fieonix
+Fieonix Ltd
